@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **2D RPG Game**
 
-- 🌱 I’m currently learning **Python, C#, ASP.Net, Flutter, JavaScript, mongoDB, Basics of Pandas and Scikit-Learn**
+- 🌱 I’m currently learning **C#, ASP.Net, Angular, JavaScript, PostgreSQL, MSSQL**
 
 - 📫 How to reach me **berkaypehlivan75@gmail.com**
 <h3 align="left">Connect with me:</h3>
