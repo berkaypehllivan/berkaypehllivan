@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:3b82f6&height=200&section=header&text=Berkay%20Pehlivan&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Developer%20%7C%20.NET%20%26%20Angular%20Architect&descAlignY=60&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:3b82f6&height=200&section=header&text=Berkay%20Pehlivan&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Developer%20-%20.NET%20and%20Angular%20Architect&descAlignY=60&descSize=16" width="100%" alt="Berkay Pehlivan Header" />
 </div>
 
 <div align="center">
@@ -44,11 +44,11 @@ public sealed class BerkayPehlivan : IDeveloper
     public string[] CoreStack => [ ".NET 10", "Angular 21", "C#" ];
     public string[] Architecture => [ "Clean Architecture", "DDD", "CQRS" ];
     public string[] Databases => [ "MSSQL", "PostgreSQL", "MongoDB" ];
-
-    public string Mindset =>
+    
+    public string Mindset => 
         "Clean code, modular systems, and product-driven engineering.";
 
-    public string Vision =>
+    public string Vision => 
         "Launching scalable web, mobile, and hardware-integrated ventures.";
 }
 ```
@@ -104,12 +104,12 @@ public sealed class BerkayPehlivan : IDeveloper
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=berkaypehllivan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaypehllivan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=berkaypehllivan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" alt="GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaypehllivan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkaypehllivan&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+  <img src="https://streak-stats.demolab.com?user=berkaypehllivan&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </div>
 
 ---
